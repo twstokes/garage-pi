@@ -1,2 +1,4 @@
 # garage-pi
-Script to open garage door with a Raspberry Pi
+Python script used to open a garage door with a Raspberry Pi.
+
+http://www.tannr.com/2015/01/16/raspberry-pi-garage-door-opener-part-1/
